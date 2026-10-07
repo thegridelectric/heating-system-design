@@ -1,0 +1,16 @@
+# Installed into the clone with `uvx pre-commit install`; runs on every
+# `git commit`. A document's text may not go in while its Word cut is
+# stale (tools/check-docx-fresh.sh), and nothing over 2 MB goes in.
+repos:
+  - repo: local
+    hooks:
+      - id: docx-fresh
+        name: Word cut matches the markdown
+        entry: tools/check-docx-fresh.sh
+        language: script
+        files: '^[^/]+/[^/]+\.md$'
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-added-large-files
+        args: [--maxkb=2048]

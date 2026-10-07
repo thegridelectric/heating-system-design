@@ -1,0 +1,8 @@
+slug: cold-zone-call-during-steady-heating-memo
+version: 2
+date: 2026-10-07T21:56Z
+md: fecc8ce5d3b24737a4d7776391b7a8a1031911f588b4f137aacb92e33e6aee48
+docx: c86da1a8ce4e7d3ff98399a144cd544e18312d72552fce2240e1a2e2904581b4
+xlsx: 933b49a0fdb915df427c5e2d6d762b719d8088b6f26c54d636e6df795d850ef2
+experiments: d42414c
+pandoc: 3.12

@@ -1,0 +1,8 @@
+slug: mix-or-not
+version: 1
+date: 2026-10-07T21:57Z
+md: 097d018d05911536adf59555ae84addf45d3e131b6196787e52f4e5c6a2412fd
+docx: bed3c0d7b2c4684b37fc7c8230d44e71e0c16851a75e3b7143103d379fad0fc3
+xlsx: none (slug not in sheets.py's registry)
+experiments: d42414c
+pandoc: 3.12

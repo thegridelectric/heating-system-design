@@ -1,0 +1,8 @@
+slug: return-water-temperature-memo
+version: 2
+date: 2026-10-07T21:57Z
+md: c098fa0a310f2f4e41b775cea815c811d559f40ad052ab6d1cdce33b981b089c
+docx: e15823a94d1376df1ab152cdbdb3b47a21dad7cbf3c15e968c85942332666e82
+xlsx: none (slug not in sheets.py's registry)
+experiments: d42414c
+pandoc: 3.12

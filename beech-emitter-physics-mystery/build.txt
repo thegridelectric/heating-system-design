@@ -1,0 +1,8 @@
+slug: beech-emitter-physics-mystery
+version: 1
+date: 2026-10-07T21:57Z
+md: f78854bbbfbc47b4a73fb8d3f45531160368076cb6b98d3c411d008442eef60e
+docx: 6e2e6551b44b33fc5e356f7dfd621a5ef2d3bddee95e4abee0bf0d6bb73730f6
+xlsx: dc73e7b6f8e543ec778b5b6ce8d8676e8b36b187f5539e3f5d6a13791005dfd6
+experiments: d42414c
+pandoc: 3.12
